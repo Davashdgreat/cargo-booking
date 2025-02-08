@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-100">
       <button
-        onClick={() => navigate('/shipment-details')}
+        onClick={() => navigate('/BookingForm')}
         className="text-2xl font-bold bg-blue-600 text-white p-4 rounded-xl hover:bg-blue-700"
       >
         Start Booking 🚚
